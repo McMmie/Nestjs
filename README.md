@@ -12,7 +12,7 @@ To install NestJS, you need to have Node.js and npm installed. You can create a 
     ```
 
 2. Create a new project:
-    ```bash
+    `` `bash
     nest new project-name
     ```
 
